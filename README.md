@@ -1,5 +1,5 @@
 # Image-Scrapper
-##### from scratch with explaination of each line 
+##### from scratch with explaination of each line in comment
 
 ### How to execute this code
 
