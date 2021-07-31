@@ -21,3 +21,6 @@ Step 4 : Download the same chrome driver from here "https://chromedriver.storage
  
 Step 5 : put it inside the same folder of this code 
 
+## License
+
+This project is licensed under the MIT License. 
